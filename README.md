@@ -34,6 +34,6 @@ O projeto é servido no endereço http://127.0.0.1:8000/
 
 ## Bugs
 * Dado de teste sendo listado e não é possível removê-lo ou editá-lo.
-* Na criação de um herói de classe "S", é necessário escolher a classe mesmo que estaa classe apareça por padrão.
+* Na criação de um herói de classe "S", é necessário escolher a classe mesmo que esta classe apareça por padrão.
 
 *Atenção para a grafia de `iheros`; cometi um erro de digitação na criação do projeto e que só foi percebida quando era inviável, por questões de prazo, consertar
